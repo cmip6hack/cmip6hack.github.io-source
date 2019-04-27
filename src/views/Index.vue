@@ -5,11 +5,11 @@
         <div class="md-layout">
           <div class="md-layout-item md-size-50 md-small-size-70 md-xsmall-size-100">
             <h2 class="title">
-              Dates: October 2019
+              Dates: Oct. ? - ?, 2019
               <br>Venue: Boulder, CO, USA
             </h2>
             <h3>Applications are now open!</h3>
-            <md-button href class="md-success md-lg" target="_blank">Register</md-button>
+            <md-button href class="md-success md-lg" target="_blank">Register Here</md-button>
           </div>
         </div>
       </div>
@@ -37,6 +37,11 @@
                 luctus quam. Mauris nostra faucibus condimentum venenatis fermentum at eros lacinia
                 netus sem aptent facilisi integer elementum, ornare congue vivamus vehicula montes
                 cras massa curae platea pretium malesuada nisi ut.
+              </h5>
+
+              <h2 class="title text-center">Sponsors</h2>
+              <h5 class="description">
+                NCAR CMIP6 Hackathon is made possible by the following sponsors:
               </h5>
               <h2 class="title text-center">Location</h2>
               <div id="osm-map"></div>

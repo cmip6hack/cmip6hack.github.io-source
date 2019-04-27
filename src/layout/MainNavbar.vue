@@ -38,7 +38,7 @@
               </md-list-item>
 
               <md-list-item href="#">
-                <i class="material-icons">content_paste</i>
+                <i class="material-icons">work</i>
                 <p>Hackathon Projects</p>
               </md-list-item>
 
