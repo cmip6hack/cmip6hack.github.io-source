@@ -5,8 +5,8 @@
         <div class="md-layout">
           <div class="md-layout-item md-size-50 md-small-size-70 md-xsmall-size-100">
             <h2 class="title">
-              October 2019
-              <br>Boulder, CO, Mesa Laboratory
+              Dates: October 2019
+              <br>Venue: Boulder, CO, USA
             </h2>
             <h3>Applications are now open!</h3>
             <md-button href class="md-success md-lg" target="_blank">Register</md-button>
@@ -19,7 +19,7 @@
         <div class="container">
           <div class="md-layout">
             <div class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto text-center">
-              <h2 class="title text-center">About NCAR CMIP6 Hackathon</h2>
+              <h2 class="title text-center">Motivation</h2>
               <h5 class="description">
                 Lorem ipsum dolor sit amet consectetur, adipiscing elit fermentum mus lacinia mattis,
                 semper nunc tellus senectus. Accumsan habitasse ligula per id nisl tempus molestie,
@@ -28,6 +28,18 @@
                 netus sem aptent facilisi integer elementum, ornare congue vivamus vehicula montes
                 cras massa curae platea pretium malesuada nisi ut.
               </h5>
+
+              <h2 class="title text-center">Overview</h2>
+              <h5 class="description">
+                Lorem ipsum dolor sit amet consectetur, adipiscing elit fermentum mus lacinia mattis,
+                semper nunc tellus senectus. Accumsan habitasse ligula per id nisl tempus molestie,
+                montes primis nunc ridiculus sem tellus cursus curabitur, vel sodales donec laoreet
+                luctus quam. Mauris nostra faucibus condimentum venenatis fermentum at eros lacinia
+                netus sem aptent facilisi integer elementum, ornare congue vivamus vehicula montes
+                cras massa curae platea pretium malesuada nisi ut.
+              </h5>
+              <h2 class="title text-center">Location</h2>
+              <div id="osm-map"></div>
             </div>
           </div>
         </div>
@@ -61,6 +73,8 @@ export default {
   }
 };
 </script>
+
+
 
 <style lang="scss" scoped>
 .md-card-actions.text-center {
