@@ -43,8 +43,8 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 // Target's GPS coordinates.
 var target = L.latLng('39.9783', '-105.2750');
 
-// Set map's center to target with zoom 14.
-map.setView(target, 16);
+// Set map's center to target with zoom 11.
+map.setView(target, 11);
 
 // Place a marker on the same location.
 L.marker(target).addTo(map);
